@@ -9,6 +9,7 @@ public class Pokemon
   boolean taken=false;
   int id;
   int health=50;
+  //Why healt is 50 not 100???
   int movement;
   int attack;
   int defence;
