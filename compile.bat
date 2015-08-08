@@ -1,6 +1,6 @@
 echo off
 cls
-
+echo yo
 set path ="C:\Program Files\Java\jdk1.8.0_31\bin"
 ECHO  STARX INC
 ECHO  THIS IS FOR  Pokemon game by SANDEEP(Sylveryte)
